@@ -9,5 +9,6 @@ int main()
     printf("linea nueva");
     printf("hola");
     printf("update1");
+    printf("Soy texto de la rama2");
     return 0;
 }
