@@ -8,6 +8,10 @@ int main()
     printf("nueva linea");
     printf("linea nueva");
     printf("hola");
+<<<<<<< HEAD
     printf("update1");
+=======
+    printf("Linea del branch master");
+>>>>>>> master
     return 0;
 }
